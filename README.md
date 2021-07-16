@@ -3,8 +3,6 @@
 
 - 🔭 3rd year Student
 - 🌱 Embedded Systems
-- ⚡ Low-Level programming: C, C++ and Assembly
-- 💥 High-Level programming: HTML, CSS and Javascript (beginner)
 - 🥅 2021: New projects
 - 👁️‍🗨️ Languages to Learn: Python, Go and C#
 
