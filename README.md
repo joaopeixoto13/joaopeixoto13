@@ -15,10 +15,6 @@
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaopeixotooficial@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@joaopeixoto_01-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaopeixoto_01/)
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 <br />
 
 ---
@@ -48,9 +44,6 @@
 ![João Peixoto's Stats](https://github-readme-stats.vercel.app/api?username=joaopeixoto13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&show_icons=true&theme=radical)
 
-[twitter]: https://twitter.com/JoaoPeixoto_01
-[instagram]: https://www.instagram.com/joaopeixoto_01/
-[facebook]: https://www.facebook.com/jony.peixoto.5/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
