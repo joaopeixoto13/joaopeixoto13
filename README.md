@@ -1,5 +1,5 @@
 ## Hi there, I'm João Peixoto 👋
-### I'm currently studing Industrial Electronic Engineering and Computers at UMinho University!🎓
+### I'm currently studing Industrial Electronic Engineering and Computers at UMinho University! 🎓
 
 - 🔭 3rd year Student
 - 🌱 Embedded Systems
@@ -31,12 +31,6 @@
 
 ---
 
-### Expert Languages:
-- <br><img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" /></br>
-- <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" /></br>
-- <img align="left" alt="ASM" width="26px" src="https://i.pinimg.com/originals/25/a8/5d/25a85d9e5057430d82273a3c75e73014.png" />
-
----
 ![João Peixoto's Stats](https://github-readme-stats.vercel.app/api?username=joaopeixoto13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&show_icons=true&theme=radical)
 
