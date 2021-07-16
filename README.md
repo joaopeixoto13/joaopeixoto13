@@ -17,7 +17,7 @@
 
 ---
 
-### Languages and Tools:
+### Tools I usually use:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -27,8 +27,10 @@
 <img align="left" alt="Keil uVision5" width="26px" down="3px" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" />
 <img align="left" alt="KiCad" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" />
 
-<br />
-<br />
+---
+
+### Languages:
+- <img align="left" alt="Visual Studio" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
 
 ---
 ![João Peixoto's Stats](https://github-readme-stats.vercel.app/api?username=joaopeixoto13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
