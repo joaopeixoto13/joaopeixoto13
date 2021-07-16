@@ -14,7 +14,7 @@
 
 ---
 
-### Languages 
+### Languages:
 
 #### My Programming Skills ⚡
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
