@@ -3,8 +3,7 @@
 
 - 🔭 3rd year Student
 - 🌱 Embedded Systems
-- 🥅 2021: New projects
-- 👁️‍🗨️ Languages to Learn: Python, Go and C#
+- 🥅 2021: New projects soon
 
 ---
 
@@ -12,6 +11,21 @@
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaopeixotooficial@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@joaopeixoto_01-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaopeixoto_01/)
+
+---
+
+### Languages
+
+### My Programming Skills
+- C
+- C++
+- Assembly
+- HTML, CSS and JavaScript (beginner)
+
+### Languages to Learn 
+- Python
+- Go
+- C#    
 
 ---
 
