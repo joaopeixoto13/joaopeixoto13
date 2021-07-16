@@ -30,7 +30,7 @@
 
 #### Languages to Learn 🙏
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
-<img align="left" alt="Go" width="26px" src="https://www.vertica.com/wp-content/uploads/2019/07/Golang.png" />
+<img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Go_Logo_Aqua.svg/1280px-Go_Logo_Aqua.svg.png" />
 <img align="left" alt="C#" width="26px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />
 </br>
 
