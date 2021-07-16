@@ -17,9 +17,10 @@
 ### Languages 👁️
 
 #### My Programming Skills 🔧
-- <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-- C++
-- Assembly
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Assembly" width="26px" src="https://cdn.fileinfo.com/img/icons/files/128/asm-5072.png" />
+
 - HTML, CSS and JavaScript (beginner)
 
 #### Languages to Learn 🙏
