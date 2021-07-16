@@ -17,7 +17,7 @@
 ### Languages 👁️
 
 #### My Programming Skills 🔧
-- C
+- <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 - C++
 - Assembly
 - HTML, CSS and JavaScript (beginner)
