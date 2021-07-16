@@ -1,5 +1,5 @@
-### Hi there, I'm João Peixoto 👋
-# I'm currently studing Industrial Electronic Engineering and Computers at UMinho University!🎓
+## Hi there, I'm João Peixoto 👋
+### I'm currently studing Industrial Electronic Engineering and Computers at UMinho University!🎓
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
