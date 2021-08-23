@@ -27,7 +27,7 @@
 ### Some Topics 🧒
 <img align="left" alt="HTML" width="30px" src="https://image.flaticon.com/icons/png/512/174/174854.png" />
 <img align="left" alt="CSS" width="30px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://www.pngix.com/pngfile/big/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" />
+<img align="left" alt="JavaScript" width="28px" src="https://www.pngix.com/pngfile/big/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" />
 </br>
 
 ### Languages to Learn 🙏
