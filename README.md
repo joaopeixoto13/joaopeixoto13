@@ -25,7 +25,7 @@
 </br>
 
 ### Some Topics 🧒
-<img align="left" alt="HTML" width="30px" src="https://image.flaticon.com/icons/png/512/888/888859.png" />
+<img align="left" alt="HTML" width="30px" src="https://image.flaticon.com/icons/png/512/174/174854.png" />
 <img align="left" alt="CSS" width="25px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
 <img align="left" alt="JavaScript" width="25px" src="https://www.pngix.com/pngfile/big/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" />
 </br>
