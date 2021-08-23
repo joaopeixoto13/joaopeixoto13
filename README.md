@@ -31,7 +31,7 @@
 </br>
 
 ### Languages to Learn 🙏
-<img align="left" alt="Go" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+<img align="left" alt="Go" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 <img align="left" alt="C#" width="30px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />
 </br>
 
