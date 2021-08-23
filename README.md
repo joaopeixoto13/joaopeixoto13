@@ -25,8 +25,8 @@
 </br>
 
 ### Some Topics 🧒
-<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="CSS" width="25px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />
+<img align="left" alt="HTML" width="30px" src="https://image.flaticon.com/icons/png/512/888/888859.png" />
+<img align="left" alt="CSS" width="25px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
 <img align="left" alt="JavaScript" width="25px" src="https://www.pngix.com/pngfile/big/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" />
 </br>
 
