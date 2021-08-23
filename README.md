@@ -3,7 +3,7 @@
 
 - 🔭 3rd year Student
 - 🌱 Embedded Systems
-- 🔥 Artificial Intelligence Enthusiastic 
+- ⚡ Artificial Intelligence Enthusiastic 
 - 🥅 2021: New projects soon
 
 ---
