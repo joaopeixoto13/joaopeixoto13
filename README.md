@@ -31,7 +31,7 @@
 </br>
 
 ### Languages to Learn 🙏
-<img align="left" alt="Go" width="30px" src="https://danielrosiles.com/wp-content/uploads/2020/05/Golang.png" />
+<img align="left" alt="Go" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 <img align="left" alt="C#" width="30px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />
 </br>
 
