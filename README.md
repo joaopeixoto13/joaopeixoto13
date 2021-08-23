@@ -32,7 +32,7 @@
 
 ### Languages to Learn 🙏
 <img align="left" alt="Go" width="30px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
-<img align="left" alt="C#" width="30px" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" />
+<img align="left" alt="C#" width="30px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />
 </br>
 
 ---
