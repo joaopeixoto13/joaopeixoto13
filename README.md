@@ -37,7 +37,7 @@
 
 ---
 
-## Projects 
+## Some Projects 
 
 ### Embedded Systems 🚀
 - Eletronic Lock (Assembly)
@@ -61,6 +61,7 @@
 <img align="left" alt="STM" width="26px" src="https://www.cynetis-embedded.com/assets/svg/st-stm32-logo.svg" />
 <img align="left" alt="MatLab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Keil uVision5" width="26px" down="3px" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" />
 <img align="left" alt="KiCad" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" />
