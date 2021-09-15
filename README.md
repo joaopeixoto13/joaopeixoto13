@@ -65,7 +65,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Keil uVision5" width="26px" down="3px" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" />
 <img align="left" alt="KiCad" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" />
-<img align="left" alt="TensorFlow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://mpng.subpng.com/20180610/wis/kisspng-tensorflow-machine-learning-python-deep-learning-s-deep-learning-5b1dd8531b6746.9515387715286825791123.jpg" />
 
 </br>
 
