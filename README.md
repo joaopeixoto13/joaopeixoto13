@@ -12,7 +12,7 @@
 
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaopeixotooficial@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/-@joaopeixoto_01-critical?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaopeixoto_01/)
-[![Linkdin badge](https://img.shields.io/badge/joão-peixoto-667a8821a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-peixoto-667a8821a/)
+[![Linkdin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-peixoto-667a8821a/)
 ---
 
 ## Languages 
