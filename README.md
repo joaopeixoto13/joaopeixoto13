@@ -18,7 +18,6 @@
 ## Languages 
 
 ### My Programming Skills ⚡
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 <img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Assembly" width="30px" src="https://cdn.fileinfo.com/img/icons/files/128/asm-5072.png" />
