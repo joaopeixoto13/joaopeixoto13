@@ -54,9 +54,6 @@
 
 ## Tools I usually use:
 
-[![Tf badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)]
-</br>
-
 <img align="left" alt="Visual Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png" />
@@ -64,6 +61,10 @@
 <img align="left" alt="Keil uVision5" width="30px" down="3px" src="https://upload.wikimedia.org/wikipedia/en/8/8d/Keil_logo.svg" />
 <img align="left" alt="KiCad" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" />
 </br></br>
+
+[![Tf badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)]
+</br>
+</br>
 <img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
 <img align="left" alt="JupyterNotebook" width="30px" src="https://4.bp.blogspot.com/-BD3ZGiGy9Ms/WuJdYMbSh3I/AAAAAAACPrc/jePCk-BAX_g3_BED91p_zFgqDBJ4lR_JQCLcBGAs/s1600/jupyter.png" />
 <img align="left" alt="Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
