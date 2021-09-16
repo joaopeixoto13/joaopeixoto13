@@ -25,14 +25,14 @@
 </br>
 
 ### Some Topics 🧒
-<img align="left" alt="HTML" width="30px" src="https://image.flaticon.com/icons/png/512/174/174854.png" />
-<img align="left" alt="CSS" width="30px" src="https://image.flaticon.com/icons/png/512/732/732190.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://www.pngix.com/pngfile/big/150-1506301_computer-icons-logo-brand-javascript-angle-javascript-logo.png" />
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </br>
 
 ### Languages to Learn 🙏
-<img align="left" alt="Go" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-<img align="left" alt="C#" width="30px" src="https://image.flaticon.com/icons/png/512/381/381704.png" />
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 </br>
 
 ---
