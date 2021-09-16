@@ -62,7 +62,7 @@
 <img align="left" alt="KiCad" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" />
 </br></br>
 
-[![Tf badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)]
+![Tf badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 </br>
 </br>
 <img align="left" alt="PyCharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" />
