@@ -37,21 +37,6 @@
 
 ---
 
-## Some Projects 
-
-### Embedded Systems 🚀
-- Eletronic Lock (Assembly)
-- Automatic Irrigation System (C)
-- I2C Interface with EEPROM and Data Encryption (C)
-
-### Overall Programming 💻
-- Space Invaders (C)
-- Dice Game (C)
-- Snack Game (C++)
-- Shift Registration Application (C++)
-
----
-
 ## Tools I usually use:
 
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
