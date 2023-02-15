@@ -4,7 +4,6 @@
 - 🔭 MSc in Embedded Systems and Computers and Control, Automation and Robotics
 - 🌱 Embedded Systems
 - ⚡ Artificial Intelligence Enthusiastic 
-- 🥅 2023: New projects soon
 
 ---
 
