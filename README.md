@@ -1,7 +1,6 @@
 ## Hi there, I'm João Peixoto 👋
-### I'm currently studing Industrial Electronic Engineering and Computers at University of Minho! 🎓
+### MSc in Embedded Systems and Computers and Control, Automation and Robotics at University of Minho! 🎓
 
-- 🔭 MSc in Embedded Systems and Computers and Control, Automation and Robotics
 - 🚀 Secure and Real-Time Embedded Systems
 
 ---
