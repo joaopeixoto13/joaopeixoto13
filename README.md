@@ -1,7 +1,7 @@
 ## Hi there, I'm João Peixoto 👋
-### MSc in Embedded Systems and Computers and Control, Automation and Robotics at University of Minho! 🎓
+### MSc in Embedded Systems and Computers at the University of Minho! 🎓
 
-- 🚀 Secure and Real-Time Embedded Systems
+- 🚀 Currently involved in projects with a huge impact on society, developing mixed-criticality systems, with security and real-time guarantees.
 
 ---
 
@@ -14,7 +14,7 @@
 ## Programming Skills ⚡
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=Assembly&logoColor=white)
 ![](https://img.shields.io/badge/Rust-AAAAAA?style=for-the-badge&logo=rust&logoColor=black)
+![](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=Assembly&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </br>
