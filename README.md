@@ -1,7 +1,7 @@
 ## Hi there, I'm João Peixoto 👋
 ### MSc in Embedded Systems and Computers at the University of Minho! 🎓
 
-- 🚀 Currently involved in projects with a huge impact on society, developing mixed-criticality systems, with security and real-time guarantees.
+- 🚀 Currently focusing on mixed-criticality systems, with security and real-time guarantees.
 
 ---
 
