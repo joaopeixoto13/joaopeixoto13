@@ -11,7 +11,7 @@
 [![Linkdin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-peixoto-667a8821a/)
 ---
 
-## Programming Skills ⚡
+## Programming skills ⚡
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-AAAAAA?style=for-the-badge&logo=rust&logoColor=black)
@@ -21,7 +21,7 @@
 
 ---
 
-## GitHub stats & Top Langs
+## GitHub stats & Most used languages
 
 <a href="https://github.com/joaopeixoto13/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact" />
