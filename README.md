@@ -21,6 +21,12 @@
 
 ---
 
+## Top Langs
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true&theme=dark)
+---
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true&theme=highcontrast)
