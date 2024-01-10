@@ -19,4 +19,6 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13)](https://github.com/joaopeixoto13/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13)](https://github.com/joaopeixoto13/github-readme-stats&layout=compact)
