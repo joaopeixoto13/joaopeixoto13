@@ -27,5 +27,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact" />
 </a>
 <a href="https://github.com/joaopeixoto13/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true&theme=highcontrast&card_width=320" />
 </a>
