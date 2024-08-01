@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Rust-AAAAAA?style=for-the-badge&logo=rust&logoColor=black)
 ![](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=Assembly&logoColor=white)
+![](https://img.shields.io/badge/Verilog-BEBEBE?style=for-the-badge&logo=Verilog&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </br>
 
