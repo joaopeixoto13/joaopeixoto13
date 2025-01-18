@@ -1,32 +1,35 @@
 ## Hi there, I'm João Peixoto 👋
-### MSc in Embedded Systems and Computers at the University of Minho! 🎓
 
-- 🚀 Currently focusing on mixed-criticality systems, with security and real-time guarantees.
+I'm a 23-year-old with a Master's in Embedded Systems and Computers from the University of Minho. 
 
----
+- 💻 Focused on virtualization, operating systems, firmware, and security for embedded systems
+- 📚 Ambitious bookworm with an entrepreneurial mindset
+- 🌱 Passionate about fitness and sports, including gym workouts, running, and swimming
+- 🚀 Turning tech dreams into reality, one byte at a time
 
-## Connect with me:
+Feel free to connect and explore my work! 😊
 
-[![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaopeixotooficial@gmail.com)
-[![Linkdin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-peixoto-667a8821a/)
----
-
-## Programming skills ⚡
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Rust-AAAAAA?style=for-the-badge&logo=rust&logoColor=black)
-![](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=Assembly&logoColor=white)
-![](https://img.shields.io/badge/Verilog-BEBEBE?style=for-the-badge&logo=Verilog&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</br>
-
----
-
-## GitHub stats & Most used languages
-
-<a href="https://github.com/joaopeixoto13/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true&theme=highcontrast" />
+<a href="https://www.linkedin.com/in/jo%C3%A3o-peixoto-667a8821a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://github.com/joaopeixoto13/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact&card_width=320" />
+<a href="https://x.com/joaopeixoto13">
+  <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
+<a href="mailto:joaopeixotooficial@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<br>
+
+## 🛠 Technical Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,python,bash,cmake,linux,git,github,githubactions,gitlab,matlab,vim,vscode,arduino,raspberrypi,ubuntu,debian,redhat,sqlite,notion)](https://skillicons.dev)
+
+---
+
+## 📈 Github Stats and Activities
+
+<p align="center">
+    <img height='195px' src="https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
+    <img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact&theme=aura" alt="evander stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user={joaopeixoto13}&theme={tokyonight}">
+</p>
