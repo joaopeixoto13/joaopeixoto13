@@ -31,5 +31,4 @@ Feel free to connect and explore my work! 😊
 <p align="center">
     <img height='195px' src="https://github-readme-stats.vercel.app/api?username=joaopeixoto13&show_icons=true=anuraghazra&show_icons=true&theme=aura" alt="evander stats"/>
     <img height='195px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopeixoto13&layout=compact&theme=aura" alt="evander stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user={joaopeixoto13}&theme={tokyonight}">
 </p>
