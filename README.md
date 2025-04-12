@@ -1,6 +1,6 @@
 ## Hi there, I'm João Peixoto 👋
 
-I'm a 23-year-old with a Master's in Embedded Systems and Computers from the University of Minho. 
+I'm a 24-year-old with a Master's in Embedded Systems and Computers from the University of Minho. 
 
 - 💻 Focused on virtualization, operating systems, firmware, and security for embedded systems
 - 📚 Ambitious bookworm with an entrepreneurial mindset
