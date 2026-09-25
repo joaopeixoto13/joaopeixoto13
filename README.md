@@ -1,11 +1,15 @@
 ## Hi there, I'm João Peixoto 👋
 
-I'm a 24-year-old with a Master's in Embedded Systems and Computers from the University of Minho. 
+I'm a 25-year-old Embedded Systems Engineer and Head of Product at [OSYX Technologies](https://www.osyx.tech/), working at the intersection of low-level systems, virtualization, security, and intelligent embedded devices.
 
-- 💻 Focused on virtualization, operating systems, firmware, and security for embedded systems
-- 📚 Ambitious bookworm with an entrepreneurial mindset
-- 🌱 Passionate about fitness and sports, including gym workouts, running, and swimming
-- 🚀 Turning tech dreams into reality, one byte at a time
+- 💻 Building with Embedded Linux, RTOS, hypervisors, firmware, and low-level C/C++ & Rust
+- 🔐 Interested in secure systems, physical AI, trusted execution, virtualization, and mixed-criticality architectures
+- ⚙️ Working across the stack, from bootloaders and device drivers to system architecture and product development
+- 🌱 Core maintainer of the [Bao Hypervisor](https://github.com/bao-project/bao) and contributor to open-source virtualization projects
+- 📚 MSc in Embedded Systems and Computers from the University of Minho
+- 🚀 Turning complex systems problems into products that can ship
+
+Feel free to explore my projects and contributions!
 
 Feel free to connect and explore my work! 😊
 
